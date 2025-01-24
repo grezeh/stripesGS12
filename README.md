@@ -7,3 +7,4 @@ assumed Tecsee Mid switches,
 negative tilt,
 appr. 2.55mm lasercut bottom [plexiglas or otherwise],
 No guarantees, no refunds. <in Marcus voice>
+![stripesGS12]()
